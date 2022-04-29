@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+    <metadata>
+        <id>Timberborn-Modding-Central.Templates</id>
+        <version>1.0.0</version>
+        <description>Templates to use when creating an Timberborn mod</description>
+        <authors>Timberborn-Modding-Central</authors>
+        <title>Timberborn-Modding-Central modding templates</title>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <license type="expression">LGPL-2.1-or-later</license>
+        <tags>Timberborn BepInEx TimberAPI</tags>
+        <language>en-US</language>
+        <packageTypes>
+            <packageType name="Template" />
+        </packageTypes>
+    </metadata>
+    <files>
+        <file src=".\"
+              exclude="**\bin;**\obj;**\.vs\**"
+              target="src" />
+    </files>
+</package>

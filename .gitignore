@@ -1,0 +1,5 @@
+.idea
+*/bin
+*/obj
+nuget.exe
+Timberborn-Modding-Central.Templates.*.nupkg

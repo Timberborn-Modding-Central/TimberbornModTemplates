@@ -1,0 +1,21 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Timberborn-Modding-Central",
+  "classifications": [
+    "Timberborn",
+    "TimberAPI",
+    "BepInEx",
+    "BepInEx 5",
+    "Plugin"
+  ],
+  "name": "Timberborn mod template + TimberAPI",
+  "description": "Creates a basic timberborn mod setup including timberAPI",
+  "identity": "Timberborn-Modding-Central.Basic.Mod.TimberAPI",
+  "shortName": "tmta",
+  "defaultName": "ModName",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "ModName"
+}
